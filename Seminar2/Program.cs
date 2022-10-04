@@ -23,6 +23,7 @@ int biggestDigit = FindMax(number);
 Console.WriteLine($"the biggest digit of {number} is {biggestDigit}");
 */
 
+/*
 // Напишите программу, которая выводит случайное трёхзначное число и удаляет вторую цифру этого числа.
 
 int ThreeDigitWithoutSecond(int twoDigit)
@@ -37,6 +38,9 @@ int num = new Random().Next(100, 1000);
 int digit = ThreeDigitWithoutSecond(num);
 
 Console.WriteLine($"DigitOutOfSecond of number {num} is {digit}");
+
+*/
+
 
 // Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно a и b. a и b - инфо от пользователя(тоже int)
 
